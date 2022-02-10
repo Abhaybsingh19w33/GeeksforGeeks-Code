@@ -1,0 +1,13 @@
+C++ is very close to hardware. Pointer memory access functions.
+Most of the os is written in c and cpp.
+
+Most of the cpp programs are faster then java and python, because it is a compiled language. It means the cpp programs are converted in binary file in one go.
+
+-> Important features of cpp 
+low level programming - although cpp is high level programming language. It has low level feature like functions, pointers which can access hardware, can do memory operations directly.
+speed of execution - It does not have garbage collection  like java and python which cause extra overhead many other things like index out of bound checking that came at a cost of speed. 
+Derived from C 
+Richer library than C - Many more libraries like STL
+OOP 
+
+using namespace std; - to avoid name collisions, if several header files have same variable name then these namespace will create several namespaces(perspective or like env) to avoid collisions.
